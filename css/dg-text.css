@@ -1,0 +1,22 @@
+.widget_dg_text{ margin-bottom: 10px; }
+.widget_dg_text h3{
+    background: #0C5459;
+    padding: 15px; /*0.8em 1em 0.5em 1em;*/
+    margin: 0;
+    border-radius: 7px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+#main-aside .widget_dg_text h3{
+    font-size: 1.0em;
+
+}
+
+.widget_dg_text .textwidget{
+    padding: 15px;
+    background: #083639;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    font-size: 0.9em;
+    line-height: 1.3em;
+}
